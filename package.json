@@ -1,0 +1,19 @@
+{
+  "name": "openroom",
+  "version": "1.0.0",
+  "description": "[![Build Status](http://jenkins.theserverproject.com/buildStatus/icon?job=OpenRoom%2Fmaster)](http://jenkins.theserverproject.com/job/OpenRoom/job/master/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ross-Alexandra/OpenRoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ross-Alexandra/OpenRoom/issues"
+  },
+  "homepage": "https://github.com/Ross-Alexandra/OpenRoom#readme"
+}
